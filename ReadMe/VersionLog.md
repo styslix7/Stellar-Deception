@@ -11,7 +11,7 @@
     * Was named Prototype 2.
     * Written with HTML, CSS and JavaScript with better UI/UX.
     * Main menu music by Kristopher Rioux. Programming help by Kacper Jeznach.
-    * -link
+    * [Play](https://styslix.itch.io/stellar-deception-prototype-2)
   
 # Version History
 
