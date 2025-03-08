@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="Git_Logo_0.png" alt="logo" width="200" height="auto" />
+  <img src="StyLogo.png" alt="logo" width="200" height="auto" />
 
 </div>
 
