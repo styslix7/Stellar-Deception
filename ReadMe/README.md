@@ -18,13 +18,14 @@ This project is licensed under a proprietary license. All rights are reserved by
 
 [For more info about License/Copyright](https://github.com/styslix7/Stellar-Deception/blob/main/ReadMe/License.md)
 
+# Current Version
+
+* 0.3
+    * 333
+
 # Version History
 
-* 0.2
-    * aaa
-    * bbb
-* 0.1
-    * ccc
+All of the version history is [here](https://github.com/styslix7/Stellar-Deception/blob/main/ReadMe/VersionLog.md).
 
 # Installation
 
