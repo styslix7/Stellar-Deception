@@ -14,5 +14,6 @@ For permission to use or modify this work, please contact:
 
 ```bash
 styslix7@gmail.com
+```
 
 All rights not expressly granted are reserved.
