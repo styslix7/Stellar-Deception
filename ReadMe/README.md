@@ -6,7 +6,7 @@
 
 # Stellar Deception
 
-A solo, massive, interactive visual novel game, focusing on story. Will be made in either Unity or Godot, will offer 25-50 hours of playtime.
+A solo, massive, interactive visual novel game, focusing on story. Will be made in either Unity or Godot, will offer 20-30 hours of playtime.
 
 # Description
 
