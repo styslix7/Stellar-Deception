@@ -10,11 +10,11 @@ A solo, massive, interactive visual novel game, focusing on story.
 
 ...
 
-## License
+# License
 
 ...
 
-# Version History
+## Version History
 
 * 0.2
     * aaa
@@ -22,7 +22,7 @@ A solo, massive, interactive visual novel game, focusing on story.
 * 0.1
     * ccc
 
-## Installation
+# Installation
 
 ```bash
 git clone https://github.com/styslix7/Stellar-Deception
