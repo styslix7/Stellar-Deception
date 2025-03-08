@@ -1,3 +1,9 @@
+<div align="center">
+
+  <img src="StyLogo.png" alt="logo" width="200" height="auto" />
+
+</div>
+
 # Current Version
 
 * 0.3
