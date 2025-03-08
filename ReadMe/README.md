@@ -16,6 +16,8 @@ A solo, massive, interactive visual novel game, focusing on story.
 
 This project is licensed under a proprietary license. All rights are reserved by the author, and no part of the work may be copied, modified, or distributed without prior written consent.
 
+[For more info about License/Copyright](https://github.com/styslix7/Stellar-Deception/main/ReadMe/License)
+
 # Version History
 
 * 0.2
