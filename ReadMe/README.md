@@ -28,6 +28,3 @@ This project is licensed under a proprietary license. All rights are reserved by
 
 ```bash
 git clone https://github.com/styslix7/Stellar-Deception
-
-
-
