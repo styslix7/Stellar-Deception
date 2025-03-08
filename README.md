@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="Stellar-Deception/Git_Logo_0.png" alt="logo" width="200" height="auto" />
+  <img src="Git_Logo_0.png" alt="logo" width="200" height="auto" />
   <h1>aaa</h1>
   
   <p>
