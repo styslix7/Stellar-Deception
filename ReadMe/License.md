@@ -4,7 +4,7 @@ This project is licensed under a proprietary license. All rights are reserved by
 
 # Copyright
 
-© 2023 [Your Name or Your Company]. All rights reserved. 
+© 2023 Stellar Deception. All rights reserved. 
 
 This work is protected by copyright law and may not be copied, distributed, reproduced, modified, or used in any manner without the express written permission of the copyright holder.
 
