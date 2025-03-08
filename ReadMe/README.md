@@ -26,20 +26,6 @@ This project is licensed under a proprietary license. All rights are reserved by
     * Written with HTML, CSS and JavaScript with better UI/UX.
     * Main menu music by Kristopher Rioux. Programming help by Kacper Jeznach.
     * -link
-* 0.1 | 2024-01-30
-    * A short interactive version of the story.
-    * Was named Prototype 1.
-    * Written with HTML and CSS.
-    * -link
-* 0.0.3 | 2023-11-27
-    * Another similar short story was written from a characters perspective this time.
-    * -link
-* 0.0.2 | 2023-11-13
-    * A short story was written in Stellar Deception universe.
-    * -link
-* 0.0.1 | late 2023
-    * The idea of "Stellar Deception was found".
-    * Some basic summaries were written but not published.
 
 # Version History
 
