@@ -2,11 +2,11 @@
 
   <img src="Git_Logo_0.png" alt="logo" width="200" height="auto" />
 
-  # Stellar Deception
-
-  A solo, massive, interactive visual novel game, focusing on story.
-
 </div>
+
+# Stellar Deception
+
+A solo, massive, interactive visual novel game, focusing on story.
 
 # Description
 
@@ -28,5 +28,6 @@
 
 ```bash
 git clone https://github.com/styslix7/Stellar-Deception
+
 
 
