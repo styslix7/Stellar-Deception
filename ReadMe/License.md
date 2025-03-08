@@ -1,3 +1,9 @@
+<div align="center">
+
+  <img src="StyLogo.png" alt="logo" width="200" height="auto" />
+
+</div>
+
 # License
 
 This project is licensed under a proprietary license. All rights are reserved by the author, and no part of the work may be copied, modified, or distributed without prior written consent.
