@@ -6,7 +6,7 @@
 
 # Current Version
 
-* 0.2 | Early 2024
+* 0.2 | 2024-04-12
     * Another short interactive version of the story was written, focusing one of the planets. It was not complete and the project has been stopped indefinitely.
     * Was named Prototype 2.
     * Written with HTML, CSS and JavaScript with better UI/UX.
@@ -15,7 +15,7 @@
   
 # Version History
 
-* 0.2 | Early 2024
+* 0.2 | 2024-04-12
     * Another short interactive version of the story was written, focusing one of the planets. It was not complete and the project has been stopped indefinitely.
     * Was named Prototype 2.
     * Written with HTML, CSS and JavaScript with better UI/UX.
